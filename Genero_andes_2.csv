@@ -1,0 +1,119 @@
+Tipo;Facultad;Programa;Mujeres20181;Hombres20181;MujeresPor20181;HombresPor20181;Mujeres20182;Hombres20182;MujeresPor20182;HombresPor20182
+Pregrado;Administracion;Administracion;428;561;43%;57%;447;572;44%;56%
+Pregrado;Administracion;Contaduria internacional ;38;50;43%;57%;44;56;44%;56%
+Pregrado;Arquitectura y Diseno ;Arquitectura ;358;357;50%;50%;341;340;50%;50%
+Pregrado;Arquitectura y Diseno ;Diseno ;567;194;75%;25%;573;192;75%;25%
+Pregrado;Artes y Humanidades ;Arte ;182;98;65%;35%;172;95;64%;36%
+Pregrado;Artes y Humanidades ;Historia del Arte ;58;23;72%;28%;54;18;75%;25%
+Pregrado;Artes y Humanidades ;Literatura ;136;74;65%;35%;137;65;68%;32%
+Pregrado;Artes y Humanidades ;Musica ;55;150;27%;73%;64;146;30%;70%
+Pregrado;Ciencias ;Biologia ;129;102;56%;44%;135;95;59%;41%
+Pregrado;Ciencias ;Fisica ;50;158;24%;76%;54;156;26%;74%
+Pregrado;Ciencias ;Geociencias ;82;146;36%;64%;82;134;38%;62%
+Pregrado;Ciencias ;Matematicas ;20;70;22%;78%;24;73;25%;75%
+Pregrado;Ciencias ;Microbiologia ;129;52;71%;29%;117;51;70%;30%
+Pregrado;Ciencias ;Quimica ;36;59;38%;62%;34;55;38%;62%
+Pregrado;Ciencias Sociales ;AntropologiA;108;62;64%;36%;112;63;64%;36%
+Pregrado;Ciencias Sociales ;Ciencia Politica ;268;198;58%;42%;264;181;59%;41%
+Pregrado;Ciencias Sociales ;Filosofia ;29;50;37%;63%;23;54;30%;70%
+Pregrado;Ciencias Sociales ;Historia ;35;47;43%;57%;32;40;44%;56%
+Pregrado;Ciencias Sociales ;Lenguajes y Est. Soc. ;25;9;74%;26%;19;5;79%;21%
+Pregrado;Ciencias Sociales ;Lenguas y Cultura ;126;38;77%;23%;127;37;77%;23%
+Pregrado;Ciencias Sociales ;Psicologia ;375;128;75%;25%;374;128;75%;25%
+Pregrado;Derecho ;Derecho ;520;487;52%;48%;523;490;52%;48%
+Pregrado;Economia ;Economia ;294;594;33%;67%;305;598;34%;66%
+Pregrado;Educacion;Lic. en Arte ;3;3;50%;50%;3;3;50%;50%
+Pregrado;Educacion;Lic. en Ciencias Naturales ;0;4;0%;100%;0;3;0%;100%
+Pregrado;Educacion;Lic. en Ciencias Sociales ;0;2;0%;100%;0;3;0%;100%
+Pregrado;Educacion;Lic. en Primera Infancia ;2;0;100%;0%;2;0;100%;0%
+Pregrado;Educacion;Lic. En Educacio_n Infantil ;0;0;0%;0%;1;0;100%;0%
+Pregrado;Educacion;Lic. en Humanidades ;0;1;0%;100%;0;1;0%;100%
+Pregrado;Educacion;Lic. en Matema_ticas ;3;0;100%;0%;2;1;67%;33%
+Pregrado;Escuela de Gobierno ;Gobierno y Asuntos Publicos ;130;103;56%;44%;137;115;54%;46%
+Pregrado;Est. Intercambio ;Est. Intercambio ;89;69;56%;44%;105;75;58%;42%
+Pregrado;Estudios Dirigidos ;Estudios Dirigidos ;63;66;49%;51%;61;63;49%;51%
+Pregrado;Ingenieria ;Ingenieria Ambiental ;232;144;62%;38%;219;138;61%;39%
+Pregrado;Ingenieria ;Ingenieria Biomedica;212;217;49%;51%;228;218;51%;49%
+Pregrado;Ingenieria ;Ingenieria Civil ;211;584;27%;73%;215;587;27%;73%
+Pregrado;Ingenieria ;Ingenieria Electrica;27;95;22%;78%;28;92;23%;77%
+Pregrado;Ingenieria ;Ingenieria Electronica;61;298;17%;83%;62;308;17%;83%
+Pregrado;Ingenieria ;Ingenieria Industrial ;555;949;37%;63%;559;949;37%;63%
+Pregrado;Ingenieria ;Ingenieria Mecanica;91;604;13%;87%;97;590;14%;86%
+Pregrado;Ingenieria ;Ingenieria Quimica  ;330;323;51%;49%;297;303;50%;51%
+Pregrado;Ingenieria ;Ingenieria de Sistemas ;85;522;14%;86%;85;542;14%;86%
+Pregrado;Medicina ;Medicina ;438;332;57%;43%;460;331;58%;42%
+Maestria;Administracion;MBA Ejecutivo;9;40;18%;82%;2;20;9%;91%
+Maestria;Administracion;MBA Profesional;0;1;0%;100%;0;0;0%;0%
+Maestria;Administracion;MBA Tiempo Completo ;18;12;60%;40%;19;21;48%;53%
+Maestria;Administracion;MBA Tiempo Parcial ;51;123;29%;71%;63;119;35%;65%
+Maestria;Administracion;Finanzas ;38;73;34%;66%;71;144;33%;67%
+Maestria;Administracion;Gerencia Ambiental ;33;27;55%;45%;29;21;58%;42%
+Maestria;Administracion;Gerencia y Practica del Desarrollo ;33;23;59%;41%;30;25;55%;45%
+Maestria;Administracion;Gestion de la cadena de suministro ;0;0;0%;0%;15;11;58%;42%
+Maestria;Administracion;Internacional en Finanzas ;0;0;0%;0%;1;2;33%;67%
+Maestria;Administracion;Investigacion en administracion;0;8;0%;100%;0;8;100%;100%
+Maestria;Administracion;Mercadeo;21;30;41%;59%;46;40;53%;47%
+Maestria;Arquitectura y Diseno ;Arquitectura;13;10;57%;43%;14;15;48%;52%
+Maestria;Arquitectura y Diseno ;Diseno;8;8;50%;50%;10;7;59%;41%
+Maestria;Arquitectura y Diseno ;Gestion estrategica de proy. en Arquitectura ;3;10;23%;77%;3;8;27%;73%
+Maestria;Artes y Humanidades ;Artes plasticas, electronicas y del tiempo;8;2;80%;20%;11;1;92%;8%
+Maestria;Artes y Humanidades ;Historia del Arte ;18;9;67%;33%;10;8;56%;44%
+Maestria;Artes y Humanidades ;Humanidades digitales ;18;15;55%;45%;22;15;59%;41%
+Maestria;Artes y Humanidades ;Literatura ;4;12;25%;75%;10;12;45%;55%
+Maestria;Artes y Humanidades ;Musica ;1;8;11%;89%;3;6;33%;67%
+Maestria;Artes y Humanidades ;Patrimonio Cultural Mueble ;0;0;0%;0%;3;1;75%;25%
+Maestria;Artes y Humanidades ;Periodismo ;17;18;49%;51%;19;9;68%;32%
+Maestria;Ciencias ;Biologia ;23;24;49%;51%;21;25;46%;54%
+Maestria;Ciencias ;Biologia Computacional;6;13;32%;68%;7;11;39%;61%
+Maestria;Ciencias ;Fisica ;3;32;9%;91%;3;27;10%;90%
+Maestria;Ciencias ;Matematicas ;1;28;3%;97%;1;23;4%;96%
+Maestria;Ciencias ;Microbiologia ;21;10;68%;32%;21;8;72%;28%
+Maestria;Ciencias ;Quimica ;7;7;50%;50%;10;6;63%;38%
+Maestria;Ciencias Sociales ;Antropologia ;20;12;63%;38%;17;13;57%;43%
+Maestria;Ciencias Sociales ;Ciencia Politica ;16;15;52%;48%;13;8;62%;38%
+Maestria;Ciencias Sociales ;Construccion de paz ;50;29;63%;37%;38;17;69%;31%
+Maestria;Ciencias Sociales ;Estudios Culturales ;11;10;52%;48%;7;10;41%;59%
+Maestria;Ciencias Sociales ;Estudios Internacionales ;16;9;64%;36%;15;6;71%;29%
+Maestria;Ciencias Sociales ;Filosofia ;8;19;30%;70%;6;12;33%;67%
+Maestria;Ciencias Sociales ;Geografia ;13;4;76%;24%;9;6;60%;40%
+Maestria;Ciencias Sociales ;Historia ;8;14;36%;64%;4;11;27%;73%
+Maestria;Ciencias Sociales ;Psicologia ;9;10;47%;53%;7;8;47%;53%
+Maestria;Ciencias Sociales ;Psicologia Clinica y de la Salud;22;5;81%;19%;18;4;82%;18%
+Maestria;Ciencias Sociales ;Sociologia ;0;0;0%;0%;2;6;25%;75%
+Maestria;CIDER;Estudios Interdisciplinarios sobre Desarrollo ;50;36;58%;42%;51;31;62%;38%
+Maestria;CIDER;Genero ;5;0;100%;0%;10;1;91%;9%
+Maestria;CIDER;Planificacion urbana y regional ;15;23;39%;61%;19;35;35%;65%
+Maestria;Derecho;Derecho;8;18;31%;69%;8;20;29%;71%
+Maestria;Derecho;Derecho Intermnacional;13;18;42%;58%;13;12;52%;48%
+Maestria;Derecho;Derecho Privado;15;12;56%;44%;16;13;55%;45%
+Maestria;Derecho;Derecho Publico para la Gestion Administrativa ;18;13;58%;42%;16;11;59%;41%
+Maestria;Derecho;Derecho, Gobierno y Gestion de la Justicia ;7;9;44%;56%;9;10;47%;53%
+Maestria;Derecho;Propiedad Intelectual;5;4;56%;44%;10;6;63%;38%
+Maestria;Derecho;Tributacion;1;7;13%;88%;4;9;31%;69%
+Maestria;Economia;Economia;58;90;39%;61%;51;100;34%;66%
+Maestria;Economia;Economia aplicada;12;17;41%;59%;23;35;40%;60%
+Maestria;Educacion ;Educacion;138;72;66%;34%;92;54;63%;37%
+Maestria;Educacion ;Educacion Ibague;60;18;77%;23%;15;3;83%;17%
+Maestria;Educacion ;Educacion Matematicas;21;24;47%;53%;11;16;41%;59%
+Maestria;Escuela de Gobierno;Gestion Publica;0;0;0%;0%;16;13;55%;45%
+Maestria;Escuela de Gobierno;Politicas Publicas;34;38;47%;53%;33;34;49%;51%
+Maestria;Escuela de Gobierno;Salud Publica;45;19;70%;30%;41;21;66%;34%
+Maestria;Estudios Generales de Intercambio ;Estudios Generales de Intercambio ;8;13;38%;62%;22;21;51%;49%
+Maestria;Ingenieria ;Arquitecturas de Tecnologias de Informacion;23;111;17%;83%;18;99;15%;85%
+Maestria;Ingenieria ;Diseno de productos y procesos ;20;14;59%;41%;15;21;42%;58%
+Maestria;Ingenieria ;Ingenieria Ambiental ;20;14;59%;41%;16;16;50%;50%
+Maestria;Ingenieria ;Ingenieria Biomedica  ;20;24;45%;55%;22;20;52%;48%
+Maestria;Ingenieria ;Ingenieria Civil ;66;163;29%;71%;67;154;30%;70%
+Maestria;Ingenieria ;Ingenieria de Informacion;22;55;29%;71%;27;67;29%;71%
+Maestria;Ingenieria ;Ingenieria de Petroleos;24;61;28%;72%;23;49;32%;68%
+Maestria;Ingenieria ;Ingenieria de Sistemas ;5;27;16%;84%;2;26;7%;93%
+Maestria;Ingenieria ;Ingenieria de Software ;6;87;6%;94%;9;89;9%;91%
+Maestria;Ingenieria ;Ingenieria Electrica;4;37;10%;90%;5;31;14%;86%
+Maestria;Ingenieria ;Ingenieria Electronica  ;11;33;25%;75%;8;24;25%;75%
+Maestria;Ingenieria ;Ingenieria Industrial ;39;99;28%;72%;42;89;32%;68%
+Maestria;Ingenieria ;Ingenieria Mecanica;4;37;10%;90%;5;33;13%;87%
+Maestria;Ingenieria ;Ingenieria Quimica  ;11;27;29%;71%;14;25;36%;64%
+Maestria;Ingenieria ;Inteligencia analitica para la toma de decisiones ;18;42;30%;70%;26;75;26%;74%
+Maestria;Ingenieria ;Seguridad de la Informacion ;10;52;16%;84%;14;49;22%;78%
+Maestria;Ingenieria ;Tecnologias de informacion para el negocio;36;95;27%;73%;35;105;25%;75%
+Maestria;Medicina ;Epidemiologia ;0;0;0%;0%;8;15;35%;65%
