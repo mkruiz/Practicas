@@ -1,0 +1,236 @@
+[
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": "27.750.999.999.999.900",
+    "AverageTemperatureUncertainty": 0.856,
+    "City": "Abidjan",
+    "Country": "Côte D'Ivoire",
+    "Latitude": 5.63,
+    "Longitude": -3.23
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": 18.852,
+    "AverageTemperatureUncertainty": 0.998,
+    "City": "Addis Abeba",
+    "Country": "Ethiopia",
+    "Latitude": 8.84,
+    "Longitude": 38.11
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": 19.645,
+    "AverageTemperatureUncertainty": 0.443,
+    "City": "Ahmadabad",
+    "Country": "India",
+    "Latitude": 23.31,
+    "Longitude": 72.52
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": 6.601,
+    "AverageTemperatureUncertainty": 0.409,
+    "City": "Aleppo",
+    "Country": "Syria",
+    "Latitude": 36.17,
+    "Longitude": 37.79
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": "15.039.000.000.000.000",
+    "AverageTemperatureUncertainty": 0.334,
+    "City": "Alexandria",
+    "Country": "Egypt",
+    "Latitude": 31.35,
+    "Longitude": 30.16
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": 0.8969999999999998,
+    "AverageTemperatureUncertainty": 0.4,
+    "City": "Ankara",
+    "Country": "Turkey",
+    "Latitude": 39.38,
+    "Longitude": 33.29
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": "11.517.999.999.999.900",
+    "AverageTemperatureUncertainty": 1.052,
+    "City": "Baghdad",
+    "Country": "Iraq",
+    "Latitude": 32.95,
+    "Longitude": 45
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": "24.168.000.000.000.000",
+    "AverageTemperatureUncertainty": 0.295,
+    "City": "Bangalore",
+    "Country": "India",
+    "Latitude": 12.05,
+    "Longitude": 77.26
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": 26.355,
+    "AverageTemperatureUncertainty": 0.458,
+    "City": "Bangkok",
+    "Country": "Thailand",
+    "Latitude": 13.66,
+    "Longitude": 99.91
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": 23.094,
+    "AverageTemperatureUncertainty": 0.377,
+    "City": "Belo Horizonte",
+    "Country": "Brazil",
+    "Latitude": -20.09,
+    "Longitude": -44.36
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": 0.113,
+    "AverageTemperatureUncertainty": 0.285,
+    "City": "Berlin",
+    "Country": "Germany",
+    "Latitude": 52.24,
+    "Longitude": 13.14
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": 20.967,
+    "AverageTemperatureUncertainty": 1.175,
+    "City": "Bogotá",
+    "Country": "Colombia",
+    "Latitude": 4.02,
+    "Longitude": -74.73
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": "24.186.999.999.999.900",
+    "AverageTemperatureUncertainty": 0.858,
+    "City": "Bombay",
+    "Country": "India",
+    "Latitude": 18.48,
+    "Longitude": 72.68
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": "22.726.000.000.000.000",
+    "AverageTemperatureUncertainty": 0.608,
+    "City": "Brasília",
+    "Country": "Brazil",
+    "Latitude": 15.27,
+    "Longitude": -47.5
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": "14.187.000.000.000.000",
+    "AverageTemperatureUncertainty": 0.259,
+    "City": "Cairo",
+    "Country": "Egypt",
+    "Latitude": 29.74,
+    "Longitude": 31.38
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": 17.757,
+    "AverageTemperatureUncertainty": 0.419,
+    "City": "Calcutta",
+    "Country": "India",
+    "Latitude": 23.31,
+    "Longitude": 88.25
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": 22.888,
+    "AverageTemperatureUncertainty": 1.334,
+    "City": "Cali",
+    "Country": "Colombia",
+    "Latitude": 4.02,
+    "Longitude": -76.34
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": 20.545,
+    "AverageTemperatureUncertainty": 1.025,
+    "City": "Cape Town",
+    "Country": "South Africa",
+    "Latitude": -32.95,
+    "Longitude": 18.19
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": 10.686,
+    "AverageTemperatureUncertainty": 0.579,
+    "City": "Casablanca",
+    "Country": "Morocco",
+    "Latitude": 32.95,
+    "Longitude": -6.7
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": "-17.987.000.000.000.000",
+    "AverageTemperatureUncertainty": 0.917,
+    "City": "Changchun",
+    "Country": "China",
+    "Latitude": 44.2,
+    "Longitude": 125.22
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": 0.614,
+    "AverageTemperatureUncertainty": 0.462,
+    "City": "Chengdu",
+    "Country": "China",
+    "Latitude": 31.35,
+    "Longitude": 103.66
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": 1.056,
+    "AverageTemperatureUncertainty": 0.528,
+    "City": "Chicago",
+    "Country": "United States",
+    "Latitude": 42.59,
+    "Longitude": -87.27
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": "6.747.999.999.999.990",
+    "AverageTemperatureUncertainty": 0.878,
+    "City": "Chongqing",
+    "Country": "China",
+    "Latitude": 29.74,
+    "Longitude": 107.08
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": 21.994,
+    "AverageTemperatureUncertainty": 0.512,
+    "City": "Dakar",
+    "Country": "Senegal",
+    "Latitude": 15.27,
+    "Longitude": -17.5
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": -5.059,
+    "AverageTemperatureUncertainty": 0.7859999999999999,
+    "City": "Dalian",
+    "Country": "China",
+    "Latitude": 39.38,
+    "Longitude": 120.69
+  },
+  {
+    "Dt": "1/01/13",
+    "AverageTemperature": 28.761,
+    "AverageTemperatureUncertainty": 1.108,
+    "City": "Dar Es Salaam",
+    "Country": "Tanzania",
+    "Latitude": -7.23,
+    "Longitude": 39.73
+  }
+]
