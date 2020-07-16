@@ -1,0 +1,41 @@
+﻿id,value
+Atributos de calidad,5
+Atributos de calidad.Adecuación Funcional,5
+Atributos de calidad.Adecuación Funcional.Completitud Funcional,5
+Atributos de calidad.Adecuación Funcional.Corrección Funcional,5
+Atributos de calidad.Adecuación Funcional.Pertinencia Funcional,5
+Atributos de calidad.Eficiencia de Desempeño,5
+Atributos de calidad.Eficiencia de Desempeño.Comportamiento temporal,5
+Atributos de calidad.Eficiencia de Desempeño.Utilización de recursos,5
+Atributos de calidad.Eficiencia de Desempeño.Capacidad,5
+Atributos de calidad.Compatibilidad,5
+Atributos de calidad.Compatibilidad.Coexistencia,5
+Atributos de calidad.Compatibilidad.Interoperabilidad,5
+Atributos de calidad.Usabilidad,5
+Atributos de calidad.Usabilidad.Inteligibilidad,5
+Atributos de calidad.Usabilidad.Aprendizaje,5
+Atributos de calidad.Usabilidad.Operabilidad,5
+Atributos de calidad.Usabilidad.Protección frente a errores de usuario,5
+Atributos de calidad.Usabilidad.Estética,5
+Atributos de calidad.Usabilidad.Accesibilidad,5
+Atributos de calidad,5
+Atributos de calidad.Fiabilidad.Madurez,5
+Atributos de calidad.Fiabilidad.Disponibilidad,5
+Atributos de calidad.Fiabilidad.Tolerancia a fallos,5
+Atributos de calidad.Fiabilidad.Capacidad de recuperación,5
+Atributos de calidad.Seguridad,5
+Atributos de calidad.Seguridad.Confidencialidad,5
+Atributos de calidad.Seguridad.Integridad,5
+Atributos de calidad.Seguridad.No repudio,5
+Atributos de calidad.Seguridad.Autenticidad,5
+Atributos de calidad.Seguridad.Responsabilidad,5
+Atributos de calidad.Mantenibilidad,5
+Atributos de calidad.Mantenibilidad.Modularidad,5
+Atributos de calidad.Mantenibilidad.Reusabilidad,5
+Atributos de calidad.Mantenibilidad.Analizabilidad,5
+Atributos de calidad.Mantenibilidad.Capacidad de ser modificado,5
+Atributos de calidad.Mantenibilidad.Capacidad de ser aprobado,5
+Atributos de calidad.Portabilidad,5
+Atributos de calidad.Portabilidad.Adaptabilidad,5
+Atributos de calidad.Portabilidad.Facilidad de instalación,5
+Atributos de calidad.Portabilidad.Capacidad de ser reemplazado,5
